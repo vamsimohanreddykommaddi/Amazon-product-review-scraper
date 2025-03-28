@@ -38,5 +38,5 @@ This project extracts laptop product listings and customer reviews from Amazon u
        Extracted data is saved in products_laptop_amazon.csv.
        WordClouds are displayed for sentiment analysis.
 ## ⚠️ Disclaimer
-    This project is for educational purposes only.
-    Scraping Amazon may violate their Terms of Service—use responsibly.
+  This project is for educational purposes only.
+  Scraping Amazon may violate their Terms of Service—use responsibly.
